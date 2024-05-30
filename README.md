@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front End Projects(I have a good knowledge on HTML, CSS, JS)
 - 📫 How to reach me by mail: rbharadwaj022@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am interested to keep on learning
+- ⚡ Fun fact: Keep on learning
 
 <!---
 BharadwajRachakonda/BharadwajRachakonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
