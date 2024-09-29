@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Full Stack projects, and searching for any opertunity's where can leverage my skills
 - 📫 How to reach me by mail: rbharadwaj022@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Time is moving will you move with it?
+- ⚡ Fun fact: Work is just a part of life; life is not just about work
 
 <!---
 BharadwajRachakonda/BharadwajRachakonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
