@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @BharadwajRachakonda
-- 👀 I’m interested in Front End, (Back End too but no sufficient skills yet)
-- 🌱 I’m currently learning B Tech(AI&ML) in Velagapudi Ramakrishna Siddhartha Engineering College
-- 💞️ I’m looking to collaborate on Front End Projects(I have a good knowledge on HTML, CSS, JS)
+- 👀 I’m interested in Front End and Back End basically FULL STACK I have skills in MERN stack and Some knowledge on Flask
+- 🌱 I’m currently studying B Tech(AI&ML) in Velagapudi Ramakrishna Siddhartha Engineering College
+- 💞️ I’m looking to collaborate on Full Stack projects, and searching for any opertunity's where can leverage my skills
 - 📫 How to reach me by mail: rbharadwaj022@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Keep on learning
+- ⚡ Fun fact: Time is moving will you move with it?
 
 <!---
 BharadwajRachakonda/BharadwajRachakonda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
