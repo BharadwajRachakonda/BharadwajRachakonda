@@ -116,11 +116,3 @@
 ###
 
 </br>
-
-# Profile View's
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/bharadwajrachakonda/count.svg?"  />
-</div>
-
-###
