@@ -2,14 +2,9 @@
 
 ###
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajrachakonda&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajrachakonda" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwajrachakonda" alt="bharadwajrachakonda" /></a> </p>
-
-
-
 
 # About
 
@@ -85,7 +80,9 @@
 
 </br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bharadwajrachakonda&" alt="bharadwajrachakonda" /></p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=radical&hide_border=true" alt="bharadwajrachakonda" />
+</p>
 
 ###
 
@@ -117,6 +114,18 @@
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
 </a>
 </div>
+
+###
+
+</br>
+
+# Recommended Repositoryes
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=Portfolio)](https://github.com/bharadwajrachakonda/Portfolio)
+[![My Notes](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=my-notes)](https://github.com/bharadwajrachakonda/my-notes)
+[![Todo Frontend](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-frontend)](https://github.com/bharadwajrachakonda/todo-frontend)
+[![Todo Backend](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-backend)](https://github.com/bharadwajrachakonda/todo-backend)
+[![Flask](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=flask)](https://github.com/bharadwajrachakonda/flask)
 
 ###
 
