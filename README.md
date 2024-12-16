@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=radical&hide_border=true" alt="bharadwajrachakonda" />
-  contributions this year
+  contributions this
 </p>
 
 ###
