@@ -81,7 +81,13 @@
 </br>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwajrachakonda&radius=16&theme=tokyo-night&area=true&order=5" alt="GitHub Activity Graph" />
+  contributions this month
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=radical&hide_border=true" alt="bharadwajrachakonda" />
+  contributions this year
 </p>
 
 ###
