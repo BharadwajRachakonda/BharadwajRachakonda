@@ -81,20 +81,14 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bharadwajrachakonda&radius=16&theme=tokyo-night&area=true&order=5" alt="GitHub Activity Graph" />
-  contributions this month
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=radical&hide_border=true" alt="bharadwajrachakonda" />
-  contributions this
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=dracula&hide_border=true" alt="bharadwajrachakonda" height="150"/>
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharadwajrachakonda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwajrachakonda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bharadwajrachakonda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwajrachakonda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ###
