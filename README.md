@@ -28,13 +28,13 @@
 
 # Thoughts That Shape My Craft
 
-<center>
+<div align="center">
 
 _**`Every project I build carries my fingerprint`** — because effort is the signature of growth._
 
 _**`I don’t aim to impress. I aim to improve.`**_
 
-</center>
+</div>
 
 </br>
 
@@ -157,7 +157,7 @@ _**`I don’t aim to impress. I aim to improve.`**_
 
 # Thoughts Behind the Code
 
-<center>
+<div align="center">
 
 _**`Some people read between the lines—I try to understand the logic that wrote the lines in the first place.`**_
 
@@ -165,4 +165,4 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
 
 _**`I’ve failed a hundred times in silence. That’s how I make my output sound so confident.`**_
 
-</center>
+</div>
