@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bharadwaj Rachakonda and I'm a Student, from VRSEC</h2>
+<h2 align="left">Hi 👋! My name is Bharadwaj Rachakonda - Originality over imitation. Growth over repetition.</h2>
 
 ###
 
@@ -21,6 +21,16 @@
 - 📄 Know about my experiences [https://bharadwajrachakonda.github.io/Portfolio/Resume.pdf](https://bharadwajrachakonda.github.io/Portfolio/Resume.pdf)
 
 - ⚡ Fun fact **Work is just a part of life; life is not just about work**
+
+###
+
+<br />
+
+# Thoughts That Shape My Craft
+
+> _**`Every project I build carries my fingerprint`** — because effort is the signature of growth._
+
+> _**`I don’t aim to impress. I aim to improve.`**_
 
 </br>
 
@@ -76,6 +86,16 @@
 
 </br>
 
+# Leetcode
+
+<br />
+
+<div align="center"> <img src="https://leetcard.jacoblin.cool/BharadwajRachakonda?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/> </div>
+
+###
+
+<br />
+
 # GitHub Achivements
 
 </br>
@@ -130,3 +150,11 @@
 ###
 
 </br>
+
+# Thoughts Behind the Code
+
+> _**`Some people read between the lines—I try to understand the logic that wrote the lines in the first place.`**_
+
+> _**`Clarity is not just in code or speech—it's in the way you think before you speak, and design before you build.`**_
+
+> _**`I’ve failed a hundred times in silence. That’s how I make my output sound so confident.`**_
