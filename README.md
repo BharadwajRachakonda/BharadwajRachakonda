@@ -4,7 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharadwajrachakonda&label=Profile%20views&color=0e75b6&style=flat" alt="bharadwajrachakonda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharadwajrachakonda" alt="bharadwajrachakonda" /></a> </p>
+<p align="center">
+<a href="https://buymeacoffee.com/bharadwajrachakonda" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo" />
+</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bharadwajrachakonda&row=1&column=4" alt="bharadwajrachakonda" />
+  </a>
+</p>
 
 # About
 
@@ -142,6 +152,9 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
   </a>
   <a href="https://leetcode.com/u/BharadwajRachakonda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo"  />
+</a>
+<a href="https://buymeacoffee.com/bharadwajrachakonda" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Buy%20Me%20a%20Coffee&logo=buymeacoffee&label=&color=FFDD00&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="buymeacoffee logo" />
 </a>
 </div>
 
