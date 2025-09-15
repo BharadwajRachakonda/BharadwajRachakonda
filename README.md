@@ -141,7 +141,7 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
   <a href="mailto:rbharadwaj022@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/bharadwaj-rachakonda-b36658258/" target="_blank">
+  <a href="https://www.linkedin.com/in/bharadwajrachakonda/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/rbharadwaj022" target="_blank">
