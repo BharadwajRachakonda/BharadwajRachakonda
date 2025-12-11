@@ -11,8 +11,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/bharadwajrachakonda">
     <img src="https://github-profile-trophy.vercel.app/?username=bharadwajrachakonda&row=1&column=4" alt="bharadwajrachakonda" />
+  </a> -->
+  <a href="https://github.com/bharadwajrachakonda">
+    <img src="https://github-trophies.vercel.app/?username=bharadwajrachakonda&theme=gruvbox&row=1&column=1&title=LongTimeUser&no-bg=true&no-frame=true" alt="LongTimeUser" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=bharadwajrachakonda&theme=gruvbox&row=1&column=1&title=Commits,PullRequest,Repositories&no-bg=true&no-frame=true" alt="Commits,PR,Repos" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=bharadwajrachakonda&theme=gruvbox&row=1&column=1&title=PullRequest,Repositories&no-bg=true&no-frame=true" alt="PullRequest,Repos" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=bharadwajrachakonda&theme=gruvbox&row=1&column=1&title=Repositories&no-bg=true&no-frame=true" alt="Repositories" />
+    &nbsp;&nbsp;&nbsp;
+    <img src="https://github-trophies.vercel.app/?username=bharadwajrachakonda&theme=gruvbox&row=1&column=1&title=Stars&no-bg=true&no-frame=true" alt="Stars" />
   </a>
 </p>
 
@@ -100,6 +111,9 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
   <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
@@ -121,14 +135,14 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
 </br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=dracula&hide_border=true" alt="bharadwajrachakonda" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharadwajrachakonda&theme=dark&hide_border=true" alt="bharadwajrachakonda" height="150"/>
 </p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharadwajrachakonda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bharadwajrachakonda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharadwajrachakonda&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharadwajrachakonda&theme=dark&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
 ###
@@ -164,11 +178,12 @@ _**`Clarity is not just in code or speech—it's in the way you think before you
 
 # Recommended Repositoryes
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=Portfolio)](https://github.com/bharadwajrachakonda/Portfolio)
-[![My Notes](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=my-notes)](https://github.com/bharadwajrachakonda/my-notes)
-[![Todo Frontend](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-frontend)](https://github.com/bharadwajrachakonda/todo-frontend)
-[![Todo Backend](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-backend)](https://github.com/bharadwajrachakonda/todo-backend)
-[![Flask](https://github-readme-stats.vercel.app/api/pin/?username=bharadwajrachakonda&repo=flask)](https://github.com/bharadwajrachakonda/flask)
+[![Portfolio](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=Portfolio)](https://github.com/bharadwajrachakonda/Portfolio)
+[![My-Notes](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=my-notes)](https://github.com/bharadwajrachakonda/my-notes)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=type-together)](https://github.com/bharadwajrachakonda/type-together)
+[![Flask](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=flask)](https://github.com/bharadwajrachakonda/flask)
+[![Todo-Frontend](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-frontend)](https://github.com/bharadwajrachakonda/todo-frontend)
+[![Todo-Backend](https://github-readme-stats-fast.vercel.app/api/pin/?username=bharadwajrachakonda&repo=todo-backend)](https://github.com/bharadwajrachakonda/todo-backend)
 
 ###
 
